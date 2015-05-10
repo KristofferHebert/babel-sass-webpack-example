@@ -1,9 +1,18 @@
 {
     "name": "babel-sass-webpack-example",
     "version": "0.0.1",
+    "repository": {
+    	"type": "git",
+    	"url": "git@github.com:grsmv/babel-sass-webpack-example.git"
+    },
     "devDependencies": {
-        "babel-loader":  "5.0.0",
-        "babel-runtime": "5.2.17",
-        "webpack":       "1.8.11"
+        "babel-loader":           "5.0.0",
+        "babel-runtime":          "5.2.17",
+        "grunt-closure-compiler": "0.0.21",
+        "grunt-sass":             "1.0.0",
+        "grunt-contrib-watch":    "0.6.1",
+        "grunt-http-server":      "1.3.0",
+        "grunt-webpack":          "1.0.8",
+        "webpack":                "1.8.11"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "name": "babel-sass-webpack-example",
+    "version": "0.0.1",
+    "devDependencies": {
+        "babel-loader":  "5.0.0",
+        "babel-runtime": "5.2.17",
+        "webpack":       "1.8.11"
+    }
+}
